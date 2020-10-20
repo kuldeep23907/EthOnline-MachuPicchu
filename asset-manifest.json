@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/hackathon/static/css/main.34de6062.chunk.css",
-    "main.js": "/hackathon/static/js/main.81f20767.chunk.js",
-    "main.js.map": "/hackathon/static/js/main.81f20767.chunk.js.map",
-    "runtime-main.js": "/hackathon/static/js/runtime-main.c7e15c5f.js",
-    "runtime-main.js.map": "/hackathon/static/js/runtime-main.c7e15c5f.js.map",
-    "static/js/2.0f068942.chunk.js": "/hackathon/static/js/2.0f068942.chunk.js",
-    "static/js/2.0f068942.chunk.js.map": "/hackathon/static/js/2.0f068942.chunk.js.map",
-    "index.html": "/hackathon/index.html",
-    "precache-manifest.2abf5cecd3e6d2fd301f507031409f96.js": "/hackathon/precache-manifest.2abf5cecd3e6d2fd301f507031409f96.js",
-    "service-worker.js": "/hackathon/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/hackathon/static/css/main.34de6062.chunk.css.map",
-    "static/media/machupicchu.png": "/hackathon/static/media/machupicchu.2aa19298.png",
-    "static/media/metamask.jpg": "/hackathon/static/media/metamask.6291845e.jpg",
-    "static/media/portis.png": "/hackathon/static/media/portis.04610202.png",
-    "static/media/rupeetoken.jpg": "/hackathon/static/media/rupeetoken.cf41dbb5.jpg"
+    "main.css": "/hackathon/client/static/css/main.34de6062.chunk.css",
+    "main.js": "/hackathon/client/static/js/main.95372533.chunk.js",
+    "main.js.map": "/hackathon/client/static/js/main.95372533.chunk.js.map",
+    "runtime-main.js": "/hackathon/client/static/js/runtime-main.234f74a1.js",
+    "runtime-main.js.map": "/hackathon/client/static/js/runtime-main.234f74a1.js.map",
+    "static/js/2.bb4b8d4e.chunk.js": "/hackathon/client/static/js/2.bb4b8d4e.chunk.js",
+    "static/js/2.bb4b8d4e.chunk.js.map": "/hackathon/client/static/js/2.bb4b8d4e.chunk.js.map",
+    "index.html": "/hackathon/client/index.html",
+    "precache-manifest.24edd76f85d05de62e8fcc84ddc58f03.js": "/hackathon/client/precache-manifest.24edd76f85d05de62e8fcc84ddc58f03.js",
+    "service-worker.js": "/hackathon/client/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/hackathon/client/static/css/main.34de6062.chunk.css.map",
+    "static/media/machupicchu.png": "/hackathon/client/static/media/machupicchu.2aa19298.png",
+    "static/media/metamask.jpg": "/hackathon/client/static/media/metamask.6291845e.jpg",
+    "static/media/portis.png": "/hackathon/client/static/media/portis.04610202.png",
+    "static/media/rupeetoken.jpg": "/hackathon/client/static/media/rupeetoken.cf41dbb5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7e15c5f.js",
-    "static/js/2.0f068942.chunk.js",
+    "static/js/runtime-main.234f74a1.js",
+    "static/js/2.bb4b8d4e.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.81f20767.chunk.js"
+    "static/js/main.95372533.chunk.js"
   ]
 }
