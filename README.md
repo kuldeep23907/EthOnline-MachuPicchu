@@ -1,6 +1,9 @@
 # ETHOnline Hackathon 2020
 Machu-Picchu dApp for ETHGlobal Hackathon
 
+### Winner in OpenGSN Most Meaningful Project category
+Check here : https://hack.ethglobal.co/showcase/machu-picchu-recM0wStoyOcitI1A
+
 ## To deploy updated contracts/To initailise the contracts
 
 1. Navigate to `hackathon folder`
